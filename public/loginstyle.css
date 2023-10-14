@@ -1,0 +1,37 @@
+body{
+    background-color: #8EACCD;
+}
+.login{
+    display: block;
+}
+.login-info{
+    border: 25px;
+    position: relative;
+    top:480px;
+}
+.form{
+    position: absolute;
+    left: 20px;
+    padding: 10px;
+}
+#uname{
+    text-align: right;
+}
+#pcode{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: right;
+}
+#forgotlink{
+    padding-left: 75px;
+    padding-bottom: 10px;
+}
+#lbutton{
+    padding-left: 75px;
+    padding-bottom: 10px;
+}
+#suplink{
+    padding-left: 75px;
+    padding-bottom: 10px;
+
+}
