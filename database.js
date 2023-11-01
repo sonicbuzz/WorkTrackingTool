@@ -1,4 +1,4 @@
-const sql = require('mssql');
+import sql from 'mssql';
 
 const dbconfig = {
     server: "localhost\\MSSQLSERVER",
